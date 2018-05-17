@@ -1,0 +1,12 @@
+import java.util.Scanner;
+public class Encoder {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		Scanner message = new Scanner(System.in);
+		System.out.println("Enter message:");
+
+	}
+
+}
